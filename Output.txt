@@ -1,0 +1,7 @@
+Hakeem is Good boy Hakeem is Bad boy
+Bad : 1
+is : 2
+Good : 1
+Hakeem : 2
+boy : 2
+PS C:\Users\skaha\OneDrive\Desktop\Git\WordFrequencyCalculator>
